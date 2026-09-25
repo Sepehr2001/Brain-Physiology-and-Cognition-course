@@ -1,0 +1,7 @@
+Circle,Eye,Waveform,Nominal_Hz,FFT_Mean_pm_Std,ZeroCross_Mean_pm_Std,Autocorr_Mean_pm_Std,DirectFrameTiming_Mean_pm_Std
+TriL,Left,Triangle,5,5.066 ± 0.000,5.000 ± 0.000,5.000 ± 0.000,5.030 ± 0.000
+SqL,Left,Square,5,5.066 ± 0.000,5.029 ± 0.000,4.975 ± 0.000,5.030 ± 0.000
+SineL,Left,Sine,5,5.066 ± 0.000,5.000 ± 0.000,5.000 ± 0.000,5.030 ± 0.000
+TriR,Right,Triangle,12,12.158 ± 0.000,11.999 ± 0.000,12.048 ± 0.000,12.071 ± 0.000
+SqR,Right,Square,12,12.158 ± 0.000,12.033 ± 0.000,12.048 ± 0.000,12.071 ± 0.000
+SineR,Right,Sine,12,12.158 ± 0.000,11.997 ± 0.000,12.048 ± 0.000,12.071 ± 0.000
